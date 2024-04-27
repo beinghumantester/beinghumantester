@@ -2,8 +2,8 @@
   <p></p><b>Manual Testing | API Testing | Database Testing | Selenium | Pytest </b></p>
   <p>I'm  Quality Analyst having two years of experience of Manual & API testing in Web & Mobile Applications. </p>
 <p>🌱 I’m currently learning Appium with Python for automating mobile applications....</p>
-<p>- 💞️ I’m looking to collaborate on ...</p>
-<p>- 📫 </p>
+<p>- 💞️ I have worked on automating various web applications with Selenium and Python using Pytest framework.</p>
+<p>- 📫 How to reach me ( <link>ujjwalsingh0491@gmail.com </p>link>)</p>
 <p>- 😄 Pronouns: ...</p>
 <p>- ⚡ Fun fact: ...</p>
 
