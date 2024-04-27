@@ -3,7 +3,7 @@
   <p>I'm  Quality Analyst having two years of experience of Manual & API testing in Web & Mobile Applications. </p>
 <p>🌱 I’m currently learning Appium with Python for automating mobile applications....</p>
 <p>- 💞️ I have worked on automating various web applications with Selenium and Python using Pytest framework.</p>
-<p>- 📫 How to reach me ( <link>ujjwalsingh0491@gmail.com </link>)</p>
+<p>- 📫 How to reach me ( <a href="url">ujjwalsingh0491@gmail.com </a>)</p>
 <p>- 😄 Pronouns: ...</p>
 <p>- ⚡ Fun fact: ...</p>
 
