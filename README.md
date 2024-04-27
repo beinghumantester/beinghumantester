@@ -1,5 +1,5 @@
 <p><h2>("Hello World") 👋 I’m Ujjwal Kumar Singh</h2></p>
-  <p></p><b>Manual Testing | API Testing | Database Testing | Selenium | Pytest </b></p>
+  <p></p><b>Manual Testing | API Testing | Database Testing | Selenium | Pytest | Agile</b></p>
   <p>I'm  Quality Analyst having two years of experience of Manual & API testing in Web & Mobile Applications. </p>
 <p>🌱 I’m currently learning Appium with Python for automating mobile applications....</p>
 <p>- 💞️ I have worked on automating various web applications with Selenium and Python using Pytest framework.</p>
