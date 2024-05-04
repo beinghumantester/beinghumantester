@@ -4,7 +4,7 @@
 <p>- 🌱 I’m currently learning Appium with Python for automating mobile applications and Jmeter for performance testing.</p>
 <p>- 💞️ I have successfully automated end-to-end functionality for multiple web applications using Selenium and Python within the Pytest framework.</p>
 <p>- ⚡ In addition to my core expertise, I have acquired extensive hands-on experience utilizing a range of essential tools including Postman for API testing, JIRA for project management, TestLink and Zephyr for test case management, Swagger for API documentation, and Git for version control. </p>
-<p>- 📫 You can contact me at <a href="url"> ujjwalsingh0407@gmail.com </a> or connect with me on LinkedIn at <a href="url">https://www.linkedin.com/in/angrybird/</a>.</p>
+<p>- 📫 You can contact me at <a href="URL"> ujjwalsingh0407@gmail.com </a> or connect with me on LinkedIn at <a href="url">https://www.linkedin.com/in/angrybird/</a>.</p>
 <p>- 😄 I possess experience in creating QA documents and I also integrated various generative AI tools into QA processes which boost my productivity.</p>
 
 
