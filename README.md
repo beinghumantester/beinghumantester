@@ -1,8 +1,8 @@
-### Hello, World
+### Hello, World I'm Ujjwal Kumar Singh
 
 
 # 💫 About Me:
-  Functional Testing | API Testing | Database Testing | Selenium | Pytest | Agile<br>  - 🔭 I am a Quality Analyst passionate about enhancing product quality to improve user experience and functionality of both mobile & web applications. <br>- 🌱 I’m currently learning Java for automating web applications using Selenium & mobile applications using Appium <br>- 💞️ I have successfully automated end-to-end functionality for multiple web applications using Selenium and Python through the Pytest framework.<br>- ⚡ In addition to my core expertise, I have acquired extensive hands-on experience utilizing a range of essential tools including Postman for API testing, JIRA for project management, TestLink and Zephyr for test case management, Swagger for API documentation, and Git for version control. <br>- 😄 I possess experience in creating QA documents and I also integrated various generative AI tools into QA processes which boost my productivity.
+  Functional Testing | API Testing | Database Testing | Automation Testing | Agile<br>  - 🔭 I am a Quality Analyst passionate about enhancing product quality to improve user experience and functionality of both mobile & web applications. <br>- 🌱 I’m currently learning Java for automating web applications using Selenium & mobile applications using Appium <br>- 💞️ I have successfully automated end-to-end functionality for multiple web applications using Selenium and Python through the Pytest framework.<br>- ⚡ In addition to my core expertise, I have acquired extensive hands-on experience utilizing a range of essential tools including Postman for API testing, JIRA for project management, TestLink and Zephyr for test case management, Swagger for API documentation, and Git for version control. <br>- 😄 I possess experience in creating QA documents and I also integrated various generative AI tools into QA processes which boost my productivity.
 
 
 ## 🌐 Socials:
