@@ -72,4 +72,5 @@
 
 ---
 
-✨ _"Quality is never an accident; it is always the result of intelligent effort."_  
+✨ **Favorite Quote**:
+_"Quality is never an accident, it is always the result of intelligent effort."_  
