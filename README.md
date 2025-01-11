@@ -1,16 +1,17 @@
+### 👋 Hello, World!
+
 # 🌟 Welcome to My GitHub!
 
 ![Banner](https://github.com/automatealchemist/automatealchemist/blob/main/github_banner.png)
 
-### 👋 Hello, World! I'm Ujjwal Kumar Singh
 
-🌟 **Quality Analyst | Automation Enthusiast | Lifelong Learner**  
-🌱 Passionate about delivering high-quality software solutions through innovative testing strategies and automation.  
+🌟 **Tester | Automation Enthusiast | Blogger**  
+🌱 Currently exploring Gen-AI tools to redefine automation and craft innovative testing strategies. 
 
 ---
 
 ### 💼 About Me:
-- 🔭 **Current Role**: Quality Analyst specializing in testing and automation for both mobile and web applications.  
+- 🔭 **Current Role**: Software Tester specializing in testing and automation for both mobile and web applications.  
 - 🌱 **Expertise**:  
   - API Testing using **Rest Assured** and **BDD frameworks**.  
   - End-to-End Web Automation with **Selenium**, **Python**, and **pytest**.  
@@ -32,8 +33,8 @@
 ---
 
 ### 🚀 Featured Projects:
-- [**API Automation Suite**](https://github.com/automatealchemist/API-Automation)  
-  A BDD-based framework to automate REST APIs with scalable test scripts.
+- [**Pytest Automation Suite**](https://github.com/automatealchemist/Orange-HRM-Demo-Open-Source-Website-Through-Pytest)  
+ A Pytest-based framework for automating an open-source website with scalable test scripts.
 - [**Portfolio Website**](https://automatealchemist.github.io)  
   My personal portfolio showcasing my journey and projects.
 
@@ -61,8 +62,8 @@
 ---
 
 ### 🎯 Call-to-Action:
-🚀 I am open to collaborations and discussions!  
-📩 Email: [ujjwal@example.com](mailto:ujjwal@example.com)  
+🚀 I am open to engaging in meaningful discussions and exchanging ideas! 
+📩 Email: [automatealchemist@gmail.com](mailto:automatechemist@gmail.com)  
 
 ---
 
