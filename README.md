@@ -11,17 +11,22 @@
 ---
 
 ### 💼 About Me:
-- 🔭 **Current Role**: Software Tester specializing in testing and automation for both mobile and web applications.  
-- 🌱 **Expertise**:  
-  - API Testing using **Rest Assured** and **BDD frameworks**.  
-  - End-to-End Web Automation with **Selenium**, **Python**, and **pytest**.  
-- 💡 **Tools I Work With**:  
-  - **Postman** for API testing.  
-  - **JIRA**, **Zephyr**, and **TestLink** for project and test case management.  
-  - **Swagger** for API documentation and **Git** for version control.  
-- ⚡ **Special Achievements**:  
-  - Automated functionality for multiple applications using scalable frameworks.  
-  - Integrated **Generative AI tools** into QA processes, boosting productivity.  
+ 🔭 **Current Role**: 
+   - Software Tester in Gurgaon-based Fin-Tech Company.  
+ 
+ 🌱 **Expertise**:  
+   - API Testing using **Rest Assured** and **BDD frameworks**.  
+   - End-to-End Web Automation with **Selenium**, **Python**, and **pytest**.
+     
+ 💡 **Tools I Work With**:  
+   - **Postman** for API testing.  
+   - **JIRA**, **Zephyr**, and **TestLink** for project and test case management.  
+   - **Swagger** for API documentation
+   - **Git** for version control.
+   - **Jenkins** and **Docker** for CI/CD Pipelines
+    
+ ⚡ **Key Accomplishments**:
+   - Automated functionality for various applications using scalable frameworks.  
 
 ---
 
@@ -62,7 +67,7 @@
 ---
 
 ### 🎯 Call-to-Action:
-🚀 I am open to engaging in meaningful discussions and exchanging ideas! 
+🚀 Always open to meaningful discussions!
 📩 Email: [automatealchemist@gmail.com](mailto:automatechemist@gmail.com)  
 
 ---
