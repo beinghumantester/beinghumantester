@@ -67,8 +67,8 @@
 ---
 
 ### 🎯 Call-to-Action:
-🚀 Always open to meaningful discussions!
-📩 Email: [automatealchemist@gmail.com](mailto:automatechemist@gmail.com)  
+- 🚀 Always open to meaningful discussions!
+- 📩 Email: [automatealchemist@gmail.com](mailto:automatechemist@gmail.com)  
 
 ---
 
