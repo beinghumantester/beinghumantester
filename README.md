@@ -29,7 +29,7 @@
 ### 🚀 Featured Projects:
 - [**Pytest Automation Suite**](https://github.com/automatealchemist/Orange-HRM-Demo-Open-Source-Website-Through-Pytest)  
  A Pytest-based framework for automating an open-source website with scalable test scripts.
-- [**Portfolio Website**](https://automatealchemist.github.io)  
+- [**Portfolio Website**](https://automate-alchemist.github.io)  
   My personal portfolio showcasing my journey and projects.
 
 ---
