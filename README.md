@@ -80,4 +80,4 @@
 ---
 
 ✨ **Favorite Quote**:
-_"Quality is never an accident, it is always the result of intelligent effort."_  
+_"Information is power. But like all power, there are those who want to keep it to themselves".-Aaron Swartz_  
