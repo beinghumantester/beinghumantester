@@ -57,7 +57,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+###  GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=automatealchemist&show_icons=true&theme=onedark" width="48%">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=automatealchemist&theme=onedark&hide_border=false&cachebuster=1" width="48%">
@@ -67,15 +67,15 @@
 
 ---
 
-### 🎉 Fun Facts About Me
+###  Fun Facts About Me
 - I love hiking and exploring nature on weekends.
 - An enthusiastic reader of literature on software development and testing, constantly seeking new insights and knowledge.
 
 ---
 
-### 🎯 Call-to-Action:
-- 🚀 Always open to meaningful discussions!
-- 📩 Email: [automatealchemist@gmail.com](mailto:automatechemist@gmail.com)  
+### Call-to-Action:
+-  Always open to meaningful discussions!
+-  Email: [automatealchemist@gmail.com](mailto:automatechemist@gmail.com)  
 
 ---
 
