@@ -68,7 +68,7 @@
 ---
 
 ###  Fun Facts About Me
-- In my free time, when I don't test the code, then I'm code to test.
+- In my free time, when I don't test the code, then I code to test.
 - An enthusiastic reader of literature on software development and testing, constantly seeking new insights and knowledge.
 
 ---
