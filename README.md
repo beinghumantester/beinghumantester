@@ -59,7 +59,7 @@
 
 ###  GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=beinghumantester&show_icons=true&theme=onedark)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=beinghumantester&show_icons=true&theme=onedark)
 
 
 ---
