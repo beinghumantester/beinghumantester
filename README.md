@@ -59,7 +59,7 @@
 
 ###  GitHub Stats:
 <div align="center">
-[![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=beinghumantester)](https://github.com/beinghumantester/github-readme-stats)
+[![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=beinghumantester)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
