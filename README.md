@@ -58,9 +58,8 @@
 ---
 
 ###  GitHub Stats:
-<div align="center">
-[![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=beinghumantester)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=beinghumantester&show_icons=true&theme=onedark)
 
 
 ---
