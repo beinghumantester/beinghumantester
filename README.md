@@ -59,8 +59,8 @@
 
 ###  GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beinghumantester&show_icons=true&theme=onedark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beinghumantester&layout=compact&theme=onedark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=automatealchemist&show_icons=true&theme=onedark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=automatealchemist&layout=compact&theme=onedark" width="48%" />
 </div>
 
 
