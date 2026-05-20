@@ -61,7 +61,7 @@
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=beinghumantester&show_icons=true&theme=onedark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=beinghumantester&theme=onedark)](https://git.io/streak-stats)
+
 
 ---
 
