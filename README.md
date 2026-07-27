@@ -326,11 +326,8 @@ Learning Experiments
 
 # Investigation Dashboard
 
-Replace the placeholders below with your preferred GitHub statistics widgets.
 
-- GitHub Readme Stats
-- GitHub Streak Stats
-- Top Languages
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beinghumantester&theme=github-dark&hide_border=true" width="48%" /> </div>
 
 # Continue The Investigation
 
