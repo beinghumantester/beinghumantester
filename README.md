@@ -1,81 +1,371 @@
-### 👋 Hello, World!
 
-# 🌟 Welcome to My GitHub!
+# CASE://UNKNOWN
 
-![Banner](https://github.com/beinghumantester/beinghumantester/blob/main/github_banner.png)
+### Every software failure leaves evidence.
 
-
-🌟 **Tester | Automation Enthusiast | Blogger**  
-🤖 Currently, I’m diving into Gen-AI tools to redefine automation strategies.
+## Some people fix bugs. I investigate them.
 
 ---
 
-# 💫 About Me:
-  Functional Testing | API Testing | Database Testing | Automation Testing | Agile | Shift Left <br><br>  - I am a Software Tester focused on crafting seamless user experiences and ensuring top-notch quality for mobile and web applications. <br>-  currently working with **Rest Assured for API testing** and using the **BDD framework** to create test scripts that are scalable, efficient, and easy to maintain. <br>-  I have successfully automated end-to-end functionality for multiple web applications using **Selenium and Python through the pytest and BDD framework**.<br>-  In addition to my core expertise, I have acquired extensive hands-on experience utilizing a range of essential tools, including Postman for API testing, JIRA for project management, TestLink and Zephyr for test case management, Swagger for API documentation, and Git for version control. <br>-  I have experience in creating QA documents and integrating various generative AI tools into QA processes, boosting my productivity. 
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                      CASE FILE 0000                         ║
+╠══════════════════════════════════════════════════════════════╣
+║ Status          OPEN                                        ║
+║ Subject         Software Systems                            ║
+║ Lead Investigator Ujjwal Kumar Singh                        ║
+║ Alias           beinghumantester                            ║
+║ Classification  Software Failure Investigator               ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+# Current Assignment
+
+```text
+Investigate software behaviour.
+
+Collect evidence.
+
+Challenge assumptions.
+
+Leave systems better than they were found.
+```
+
+# First Investigation
+
+```text
+Initial Assignment
+
+Write test cases.
+
+Unexpected Discovery
+
+The interesting question was never whether software failed.
+
+The interesting question was why.
+
+Status
+
+Still investigating.
+```
+
+# Current Operation
+
+```text
+Subject
+
+Building automation that explains failures.
+
+Current State
+
+Investigating.
+
+Next Objective
+
+Ask a better question than yesterday.
+```
+
+# Investigation Notebook
+
+```text
+Date
+
+27 July 2026
+
+Observation
+
+Automation does not remove uncertainty.
+
+It exposes it.
+
+Question
+
+Can automation explain assumptions
+as well as failures?
+
+Entry 042
+```
+
+A new notebook entry is added periodically.
+
+# Active Case Files
+
+## Case File 0001
+
+| Field | Details |
+|-------|---------|
+| Title | Pytest Selenium Trace |
+| Objective | Reduce debugging time through meaningful diagnostics |
+| Evidence | Browser logs, screenshots, Document Object Model snapshots |
+| Current Theory | Automation should explain failures instead of reporting them |
+| Status | Open |
+
+## Case File 0002
+
+| Field | Details |
+|-------|---------|
+| Title | Interview Preparation Assistant |
+| Objective | Build an artificial intelligence assistant that evaluates reasoning |
+| Evidence | Resume analysis, interview conversations, reasoning traces |
+| Current Theory | Better questions produce better engineers |
+| Status | Under Investigation |
+
+## Case File 0003
+
+| Field | Details |
+|-------|---------|
+| Title | Agentic Testing |
+| Objective | Teach artificial intelligence to investigate software behaviour |
+| Evidence | Prompt experiments, failure classification, reasoning patterns |
+| Current Theory | Investigation is more valuable than execution |
+| Status | Experimental |
+
+# Cold Case
+
+```text
+Incident
+
+Test passes locally.
+
+Fails in continuous integration.
+
+Status
+
+Unresolved
+
+Current Theory
+
+Environment parity remains under investigation.
+```
+
+# Known Blind Spot
+
+```text
+I trust logs too quickly.
+
+Sometimes the people who say
+
+"It works on my machine."
+
+turn out to be correct.
+```
+
+# Rules of Investigation
+
+```text
+Rule One
+
+Evidence before opinion.
+
+Rule Two
+
+Every assumption deserves to be questioned.
+
+Rule Three
+
+If the behaviour cannot be reproduced,
+it has not been understood.
+
+Rule Four
+
+Good automation detects failures.
+
+Great automation explains them.
+
+Rule Five
+
+Leave every investigation
+better documented than you found it.
+```
+
+# Investigation Process
+
+```text
+Observe
+
+↓
+
+Question
+
+↓
+
+Reproduce
+
+↓
+
+Collect Evidence
+
+↓
+
+Challenge Assumptions
+
+↓
+
+Discover Root Cause
+
+↓
+
+Prevent Regression
+
+↓
+
+Continue Learning
+```
+
+# Investigation Checklist
+
+```text
+□ What assumption am I making
+
+□ What evidence supports it
+
+□ Can I reproduce the behaviour
+
+□ What happens when the data is empty
+
+□ Would automation detect this
+
+□ Would a user understand this failure
+
+□ What assumption have I refused to question
+```
+
+# Latest Investigation
+
+```text
+Incident
+
+Intermittent login failure
+
+Finding
+
+An expired feature flag changed application behaviour.
+
+Lesson
+
+Investigate assumptions before rewriting automation.
+```
+
+# Evidence Locker
+
+```text
+Evidence Collection
+
+Browser Logs
+
+Network Archive
+
+Screenshots
+
+Execution Traces
+
+Investigation Tools
+
+Python
+
+Selenium
+
+Playwright
+
+Pytest
+
+Infrastructure
+
+Docker
+
+Jenkins
+
+GitHub Actions
+
+Artificial Intelligence
+
+Model Context Protocol
+
+Reasoning Agents
+```
+
+# Field Reports
+
+Software Testing
+
+Automation Design
+
+Artificial Intelligence
+
+Debugging
+
+Engineering Culture
+
+Quality Thinking
+
+# Mission Briefings
+
+Conference Talks
+
+Community Sessions
+
+Technical Workshops
+
+Open Source Presentations
+
+# Case Archive
+
+Automation Frameworks
+
+Application Programming Interface Testing
+
+Artificial Intelligence Projects
+
+Technical Writing
+
+Conference Sessions
+
+Open Source Contributions
+
+Learning Experiments
+
+# Investigation Dashboard
+
+Replace the placeholders below with your preferred GitHub statistics widgets.
+
+- GitHub Readme Stats
+- GitHub Streak Stats
+- Top Languages
+
+# Continue The Investigation
+
+- [LinkedIn](https://www.linkedin.com/in/beinghumantester/)
+- [Substack](https://substack.com/@beinghumantester)
+- [GitHub](https://github.com/beinghumantester)
+- [YouTube](https://www.youtube.com/@beinghumantester/)
+- [Electronic Mail](mailto:automatealchemist@gmail.com)
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@angrybirdd)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-k-singh)&nbsp;&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@beinghumantester)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:automatealchemist@gmail.com)&nbsp;&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/beinghumantester)
+```text
+CASE CLOSED
 
+No.
 
+Every solved bug reveals another assumption.
 
----
+Every assumption begins another investigation.
 
-### 🚀 Featured Projects:
-- [**Pytest Automation Suite**](https://github.com/automatealchemist/Orange-HRM-Demo-Open-Source-Website-Through-Pytest)  
- A Pytest-based framework for automating an open-source website with scalable test scripts.
-- [**Portfolio Website**](https://automate-alchemist.github.io)  
-  My personal portfolio showcasing my journey and projects.
+Status
 
----
+ACTIVE
+```
 
-### 💻 Tech Stack:
-![Javascript](https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Selenium](https://img.shields.io/badge/selenium-%23172BF4.svg?style=for-the-badge&logo=selenium&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23F05033.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![SonarQube](https://img.shields.io/badge/SonarQube-%2300B5AD.svg?style=for-the-badge&logo=sonarqube&logoColor=white) 
-![Sentry](https://img.shields.io/badge/Sentry-%234C4A77.svg?style=for-the-badge&logo=sentry&logoColor=white) 
-![Katalon](https://img.shields.io/badge/Katalon-%230087E7.svg?style=for-the-badge&logo=katalon&logoColor=white)
+> The objective is not simply to find defects.
+>
+> The objective is to understand why they existed in the first place.
 
+<!--
+CASE FILE 404
 
+You inspected the source.
 
+That means you investigate before trusting appearances.
 
-
----
-
-###  GitHub Stats:
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=beinghumantester&show_icons=true&theme=onedark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=beinghumantester&theme=onedark)](https://git.io/streak-stats)
-
-
----
-
-###  Fun Facts About Me
-- In my free time, when I don't test the code, then I code to test.
-- An enthusiastic reader of literature on software development and testing, constantly seeking new insights and knowledge.
-
----
-
-### Call-to-Action:
--  Always open to meaningful discussions!
--  Email: [automatealchemist@gmail.com](mailto:automatechemist@gmail.com)  
-
----
-
-✨ **Favorite Quote**:
-_"Information is power. But like all power, there are those who want to keep it to themselves".-Aaron Swartz_  
+Welcome to the investigation.
+-->
