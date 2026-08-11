@@ -17,7 +17,7 @@
 
 <br/>
 
-## About Me
+## About Me — BeingHumanTester
 
 ```
 $ cat about_me.txt
@@ -36,40 +36,33 @@ PHILOSOPHY   : I trust logs less than I trust reproducing the bug myself.
 
 <br/>
 
-## How I Investigate a Bug
+
+
+## How My AI Agent Investigates a Failure
 
 ```mermaid
 flowchart LR
-    A[Reported Behaviour] --> B{Reproducible?}
-    B -- No --> C[Gather more evidence]
-    C --> B
-    B -- Yes --> D[Form a theory]
-    D --> E[Isolate root cause]
-    E --> F{AI agent agrees?}
-    F -- No --> D
-    F -- Yes --> G[Fix + regression test]
+    A(["Signal detected<br/>failure / anomaly / crash"]) --> B["Agent ingests context:<br/>logs · stack trace · DOM snapshot"]
+    B --> C["Form hypothesis on root cause"]
+    C --> D["Reproduce in sandbox"]
+    D --> E{"Hypothesis confirmed?"}
+    E -- No --> F["Discard & generate<br/>new hypothesis"]
+    F --> C
+    E -- Yes --> G["Classify root cause<br/>flaky · regression · env · code"]
+    G --> H{"Confidence high enough?"}
+    H -- No --> I["Flag for human review"]
+    I --> J(["Engineer investigates"])
+    H -- Yes --> K["Auto-generate report:<br/>cause · evidence · suggested fix"]
+    K --> L(["Handed off to dev queue"])
+
     style A fill:#1B6E92,color:#fff
-    style G fill:#2E9E7A,color:#fff
+    style F fill:#0F6E56,color:#fff
+    style I fill:#D85A30,color:#fff
+    style K fill:#2E9E7A,color:#fff
+    style L fill:#2E9E7A,color:#fff
 ```
 
-```python
-class BugInvestigator:
-    def __init__(self, bug_report, ai_agent):
-        self.report = bug_report
-        self.agent = ai_agent
-
-    def resolve(self):
-        evidence = self.report.gather_artifacts()
-        while not self.report.is_reproducible():
-            evidence.extend(self.report.fetch_more_logs())
-
-        root_cause = self.isolate_root_cause(evidence)
-        verdict = self.agent.evaluate_failure(root_cause)
-
-        if verdict.agrees_with(root_cause):
-            return self.deploy_fix_and_regression_tests()
-        return self.resolve()
-```
+<sub>This is the loop behind my <strong>Agentic Testing Framework</strong> project — an AI agent doing the root-cause investigation on its own, escalating to a human only when it isn't confident.</sub>
 
 <br/>
 
