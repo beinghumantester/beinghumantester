@@ -150,7 +150,7 @@ class BugInvestigator:
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/1B6E92/beinghumantester" alt="GitHub Contribution Chart" width="95%"/>
+<img src="https://raw.githubusercontent.com/beinghumantester/beinghumantester/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Chart" width="95%"/>
 
 <sub>Showing a no-setup contribution chart for now. Once you've committed <code>.github/workflows/snake.yml</code> to <code>beinghumantester/beinghumantester</code> and run it once from the Actions tab, swap this image for <code>https://raw.githubusercontent.com/beinghumantester/beinghumantester/output/github-contribution-grid-snake-dark.svg</code> — the animated snake will render instead.</sub>
 
