@@ -1,368 +1,173 @@
+<div align="center">
 
-# CASE://UNKNOWN
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9E7A,100:1B6E92&height=220&section=header&text=Ujjwal%20Kumar%20Singh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Quality%20Engineer%20%C2%B7%20Automation%20Alchemist%20%C2%B7%20Agentic%20AI&descAlignY=58&descSize=18"/>
 
-### Every software failure leaves evidence.
+<a href="https://github.com/beinghumantester">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1B6E92&center=true&vCenter=true&width=650&lines=I+break+software+so+users+don't+have+to.;Transforming+flaky+tests+into+deterministic+insights.;Teaching+AI+agents+to+investigate%2C+not+just+execute.;Building+autonomous+testing+and+reasoning+engines." alt="Typing SVG" />
+</a>
 
-## Some people fix bugs. I investigate them.
+<br/>
 
----
+<a href="https://www.linkedin.com/in/beinghumantester/"><img src="https://img.shields.io/badge/LinkedIn-1B6E92?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://substack.com/@beinghumantester"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
+<a href="https://www.youtube.com/@beinghumantester/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="mailto:automatealchemist@gmail.com"><img src="https://img.shields.io/badge/Email-2E9E7A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                      CASE FILE 0000                         ║
-╠══════════════════════════════════════════════════════════════╣
-║ Status          OPEN                                        ║
-║ Subject         Software Systems                            ║
-║ Lead Investigator Ujjwal Kumar Singh                        ║
-║ Alias           beinghumantester                            ║
-║ Classification  Software Failure Investigator               ║
-╚══════════════════════════════════════════════════════════════╝
+</div>
+
+<br/>
+
+## About Me — The "Automate Alchemist"
+
+```
+$ cat about_me.txt
+
+ROLE         : Quality Engineer & Automation Builder
+ALIAS        : The "Automate Alchemist"
+CURRENT GOAL : Turning fragile test suites into self-diagnosing systems
+PHILOSOPHY   : I trust logs less than I trust reproducing the bug myself.
+
+[CORE FOCUS AREAS]
+ - Intelligent Automation : deep failure diagnostics (DOM snapshots, network logs, visual diffs)
+ - Agentic Testing & QA   : prompting and evaluating LLM agents that investigate failures on their own
+ - Building in Public     : an AI interview-prep assistant that scores reasoning, not keyword matches
+ - Technical Writing      : engineering deep dives on Substack
 ```
 
-# Current Assignment
+<br/>
 
-```text
-Investigate software behaviour.
+## How I Investigate a Bug
 
-Collect evidence.
-
-Challenge assumptions.
-
-Leave systems better than they were found.
+```mermaid
+flowchart LR
+    A[Reported Behaviour] --> B{Reproducible?}
+    B -- No --> C[Gather more evidence]
+    C --> B
+    B -- Yes --> D[Form a theory]
+    D --> E[Isolate root cause]
+    E --> F{AI agent agrees?}
+    F -- No --> D
+    F -- Yes --> G[Fix + regression test]
+    style A fill:#1B6E92,color:#fff
+    style G fill:#2E9E7A,color:#fff
 ```
 
-# First Investigation
+```python
+class BugInvestigator:
+    def __init__(self, bug_report, ai_agent):
+        self.report = bug_report
+        self.agent = ai_agent
 
-```text
-Initial Assignment
+    def resolve(self):
+        evidence = self.report.gather_artifacts()
+        while not self.report.is_reproducible():
+            evidence.extend(self.report.fetch_more_logs())
 
-Write test cases.
+        root_cause = self.isolate_root_cause(evidence)
+        verdict = self.agent.evaluate_failure(root_cause)
 
-Unexpected Discovery
-
-The interesting question was never whether software failed.
-
-The interesting question was why.
-
-Status
-
-Still investigating.
+        if verdict.agrees_with(root_cause):
+            return self.deploy_fix_and_regression_tests()
+        return self.resolve()
 ```
 
-# Current Operation
+<br/>
 
-```text
-Subject
+## Tech Stack & Arsenal
 
-Building automation that explains failures.
+<div align="center">
 
-Current State
+| Category | Languages & Tools |
+| :--- | :--- |
+| **Automation & Testing** | <img src="https://skillicons.dev/icons?i=python,selenium,playwright,pytest&theme=dark"/> |
+| **AI & Backend** | <img src="https://skillicons.dev/icons?i=fastapi,pytorch&theme=dark"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-2E9E7A?style=flat-square"/> |
+| **DevOps & CI/CD** | <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,git&theme=dark"/> |
+| **Ecosystem & OS** | <img src="https://skillicons.dev/icons?i=vscode,postman,linux,bash&theme=dark"/> |
 
-Investigating.
+</div>
 
-Next Objective
+<br/>
 
-Ask a better question than yesterday.
-```
+## Active Experiments & Flagship Projects
 
-# Investigation Notebook
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```text
-Date
+### Pytest + Selenium Diagnostics
+> **Automated failure root-cause analysis**
+- Captures DOM state, browser logs, and network telemetry automatically on failure
+- Turns raw stack traces into actionable reports
 
-27 July 2026
+</td>
+<td width="50%" valign="top">
 
-Observation
+### AI Interview Prep Assistant
+> **Evaluating reasoning over memorization**
+- Scenario-driven AI interviewer
+- Scores problem-solving pathways, not keyword matches
 
-Automation does not remove uncertainty.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-It exposes it.
+### Agentic Testing Framework
+> **Autonomous QA agents**
+- Runs exploratory test loops on its own
+- Classifies crashes and reasons about root cause
 
-Question
+</td>
+<td width="50%" valign="top">
 
-Can automation explain assumptions
-as well as failures?
+### Field Notes & Media
+> **Thought leadership in QA & AI**
+- Long-form essays on automation architecture
+- Talks & workshops on AI in testing
 
-Entry 042
-```
+</td>
+</tr>
+</table>
 
-A new notebook entry is added periodically.
+<br/>
 
-# Active Case Files
+## Trophy Case
 
-## Case File 0001
+<div align="center">
 
-| Field | Details |
-|-------|---------|
-| Title | Pytest Selenium Trace |
-| Objective | Reduce debugging time through meaningful diagnostics |
-| Evidence | Browser logs, screenshots, Document Object Model snapshots |
-| Current Theory | Automation should explain failures instead of reporting them |
-| Status | Open |
+<img src="https://github-profile-trophy.vercel.app/?username=beinghumantester&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 
-## Case File 0002
+<sub>GitHub's own Achievement badges (Pull Shark, Quickdraw, etc.) are earned automatically from your activity and can't be embedded in a README — they show natively on your profile as you rack up merged PRs, so no action needed there.</sub>
 
-| Field | Details |
-|-------|---------|
-| Title | Interview Preparation Assistant |
-| Objective | Build an artificial intelligence assistant that evaluates reasoning |
-| Evidence | Resume analysis, interview conversations, reasoning traces |
-| Current Theory | Better questions produce better engineers |
-| Status | Under Investigation |
+</div>
 
-## Case File 0003
+## GitHub Telemetry
 
-| Field | Details |
-|-------|---------|
-| Title | Agentic Testing |
-| Objective | Teach artificial intelligence to investigate software behaviour |
-| Evidence | Prompt experiments, failure classification, reasoning patterns |
-| Current Theory | Investigation is more valuable than execution |
-| Status | Experimental |
+<div align="center">
 
-# Cold Case
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=beinghumantester&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E9E7A&icon_color=1B6E92&text_color=9acee8" />
+<img height="165" src="https://streak-stats.demolab.com/?user=beinghumantester&theme=tokyonight&hide_border=true&ring=2E9E7A&fire=1B6E92&currStreakLabel=2E9E7A" />
 
-```text
-Incident
+<br/><br/>
 
-Test passes locally.
+<img src="https://ghchart.rshah.org/1B6E92/beinghumantester" alt="GitHub Contribution Chart" width="95%"/>
 
-Fails in continuous integration.
+<sub>Showing a no-setup contribution chart for now. Once you've committed <code>.github/workflows/snake.yml</code> to <code>beinghumantester/beinghumantester</code> and run it once from the Actions tab, swap this image for <code>https://raw.githubusercontent.com/beinghumantester/beinghumantester/output/github-contribution-grid-snake-dark.svg</code> — the animated snake will render instead.</sub>
 
-Status
+</div>
 
-Unresolved
+<br/>
 
-Current Theory
+## Let's Connect & Collaborate
 
-Environment parity remains under investigation.
-```
+<div align="center">
 
-# Known Blind Spot
+I'm always open to discussing **test architecture, agentic AI frameworks, or quality engineering strategy**.
 
-```text
-I trust logs too quickly.
+<a href="mailto:automatealchemist@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk_Testing-2E9E7A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-Sometimes the people who say
+<br/><br/>
 
-"It works on my machine."
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6E92,100:2E9E7A&height=100&section=footer"/>
 
-turn out to be correct.
-```
-
-# Rules of Investigation
-
-```text
-Rule One
-
-Evidence before opinion.
-
-Rule Two
-
-Every assumption deserves to be questioned.
-
-Rule Three
-
-If the behaviour cannot be reproduced,
-it has not been understood.
-
-Rule Four
-
-Good automation detects failures.
-
-Great automation explains them.
-
-Rule Five
-
-Leave every investigation
-better documented than you found it.
-```
-
-# Investigation Process
-
-```text
-Observe
-
-↓
-
-Question
-
-↓
-
-Reproduce
-
-↓
-
-Collect Evidence
-
-↓
-
-Challenge Assumptions
-
-↓
-
-Discover Root Cause
-
-↓
-
-Prevent Regression
-
-↓
-
-Continue Learning
-```
-
-# Investigation Checklist
-
-```text
-□ What assumption am I making
-
-□ What evidence supports it
-
-□ Can I reproduce the behaviour
-
-□ What happens when the data is empty
-
-□ Would automation detect this
-
-□ Would a user understand this failure
-
-□ What assumption have I refused to question
-```
-
-# Latest Investigation
-
-```text
-Incident
-
-Intermittent login failure
-
-Finding
-
-An expired feature flag changed application behaviour.
-
-Lesson
-
-Investigate assumptions before rewriting automation.
-```
-
-# Evidence Locker
-
-```text
-Evidence Collection
-
-Browser Logs
-
-Network Archive
-
-Screenshots
-
-Execution Traces
-
-Investigation Tools
-
-Python
-
-Selenium
-
-Playwright
-
-Pytest
-
-Infrastructure
-
-Docker
-
-Jenkins
-
-GitHub Actions
-
-Artificial Intelligence
-
-Model Context Protocol
-
-Reasoning Agents
-```
-
-# Field Reports
-
-Software Testing
-
-Automation Design
-
-Artificial Intelligence
-
-Debugging
-
-Engineering Culture
-
-Quality Thinking
-
-# Mission Briefings
-
-Conference Talks
-
-Community Sessions
-
-Technical Workshops
-
-Open Source Presentations
-
-# Case Archive
-
-Automation Frameworks
-
-Application Programming Interface Testing
-
-Artificial Intelligence Projects
-
-Technical Writing
-
-Conference Sessions
-
-Open Source Contributions
-
-Learning Experiments
-
-# Investigation Dashboard
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=beinghumantester&theme=github-dark&hide_border=true" width="48%" /> </div>
-
-# Continue The Investigation
-
-- [LinkedIn](https://www.linkedin.com/in/beinghumantester/)
-- [Substack](https://substack.com/@beinghumantester)
-- [GitHub](https://github.com/beinghumantester)
-- [YouTube](https://www.youtube.com/@beinghumantester/)
-- [Electronic Mail](mailto:automatealchemist@gmail.com)
-
----
-
-```text
-CASE CLOSED
-
-No.
-
-Every solved bug reveals another assumption.
-
-Every assumption begins another investigation.
-
-Status
-
-ACTIVE
-```
-
-> The objective is not simply to find defects.
->
-> The objective is to understand why they existed in the first place.
-
-<!--
-CASE FILE 404
-
-You inspected the source.
-
-That means you investigate before trusting appearances.
-
-Welcome to the investigation.
--->
+</div>
