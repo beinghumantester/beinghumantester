@@ -60,10 +60,10 @@ and AI — that investigate failure instead of just reporting it.
 <summary><h2>Journey So Far</h2></summary>
 
 ```
-2019 ─ Started as a manual tester
+2021 ─ Started as a manual tester
         │ Learned to break things before users could
         │
-2021 ─ Moved into automation
+2022 ─ Moved into automation
         │ Selenium, Pytest, CI pipelines
         │
 2023 ─ Started asking "why," not just "what failed"
