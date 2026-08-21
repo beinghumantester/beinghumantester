@@ -1,12 +1,13 @@
 <img src="./giphy.gif" align="right" width="180"/>
 
-### I'm 
+### Still figuring out where you land? I'm
 
-**Quality Engineer 
-<br> Agentic AI Builder
-<br>Community Builder**
-
-
+**Quality Engineer**
+<br/><em>Breaking software before users have to.</em>
+<br/><br/>**Agentic AI Builder**
+<br/><em>Teaching AI agents to investigate, not just execute.</em>
+<br/><br/>**Community Builder**
+<br/><em>Writing and speaking on QA and applied AI.</em>
 
 <br clear="right"/>
 
@@ -189,14 +190,9 @@ TOTAL                                     80%   PASSED
 
 <div align="center">
 
-<a href="https://github.com/BeingHumanTester?tab=followers"><img src="https://img.shields.io/github/followers/BeingHumanTester?style=for-the-badge&color=2E9E7A&labelColor=1B6E92"/></a>
-<img src="https://img.shields.io/badge/Achievements-view%20on%20profile-1B6E92?style=for-the-badge"/>
-
-<sub>GitHub's own Achievement badges (Pull Shark, Quickdraw, etc.) are earned automatically from activity and can't be embedded in a README — they show natively on your profile page as you merge more PRs.</sub>
-
 <br/><br/>
 
-<img height="165" src="https://streak-stats.demolab.com/?user=BeingHumanTester&theme=tokyonight&hide_border=true&ring=2E9E7A&fire=1B6E92&currStreakLabel=2E9E7A" />
+<img align="center" height="165" src="https://streak-stats.demolab.com/?user=BeingHumanTester&theme=tokyonight&hide_border=true&ring=2E9E7A&fire=1B6E92&currStreakLabel=2E9E7A" />
 
 <br/><br/>
 
@@ -209,17 +205,7 @@ TOTAL                                     80%   PASSED
 
 </details>
 
-<details open>
-<summary><h2>Recent Activity</h2></summary>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<sub>Populated automatically by <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a> — add the action's workflow to this repo once, and your last 5 GitHub events (PRs, issues, commits) will refresh here on every push.</sub>
-
-</details>
-
-<br/>
 
 ## Words I Test By
 
