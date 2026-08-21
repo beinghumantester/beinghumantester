@@ -44,9 +44,8 @@ and AI — that investigate failure instead of just reporting it.
 
 </td>
 <td width="190" valign="top" align="center">
-<img src="./assets/error.gif" width="180"/>
+<img src="./giphy.gif" width="180"/>
 <br/>
-<sub>me, encountering the one bug that only happens in prod</sub>
 </td>
 </tr>
 </table>
