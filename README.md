@@ -1,16 +1,16 @@
+<img src="./giphy.gif" align="right" width="180"/>
+
+### I'm 
+
+**Quality Engineer 
+<br> Agentic AI Builder
+<br>Community Builder**
+
+
+
+<br clear="right"/>
+
 <div align="center">
-
-## `whoami`
-
-```
-$ whoami
-Ujjwal Kumar Singh — quality engineer, chronic skeptic, agentic AI builder
-
-$ cat mission.txt
-Started out writing test cases. Kept asking "why did that fail?"
-until the question became the job. Now I build systems — human
-and AI — that investigate failure instead of just reporting it.
-```
 
 <a href="https://github.com/BeingHumanTester">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1B6E92&center=true&vCenter=true&width=650&lines=I+break+software+so+users+don't+have+to.;Transforming+flaky+tests+into+deterministic+insights.;Teaching+AI+agents+to+investigate%2C+not+just+execute.;Building+autonomous+testing+and+reasoning+engines." alt="Typing SVG" />
@@ -30,27 +30,13 @@ and AI — that investigate failure instead of just reporting it.
 <details open>
 <summary><h2>Issue Tracker — About Me</h2></summary>
 
-<table>
-<tr>
-<td valign="top">
-
 | # | Title | Labels | Status |
 | :-- | :-- | :-- | :-- |
-| <sub>#001</sub> | <sub>Doesn't fully trust "it works on my machine"</sub> | `skepticism` `evidence-based` | ![open](https://img.shields.io/badge/-open-2E9E7A) |
-| <sub>#002</sub> | <sub>Prompts AI agents to investigate failures, not just run scripts</sub> | `agentic-testing` `ai` | ![open](https://img.shields.io/badge/-open-2E9E7A) |
-| <sub>#003</sub> | <sub>Building an AI interview-prep assistant that grades reasoning</sub> | `side-project` `interviews` | ![in%20progress](https://img.shields.io/badge/-in%20progress-1B6E92) |
-| <sub>#004</sub> | <sub>Writes about QA + AI on Substack instead of keeping notes private</sub> | `writing` `substack` | ![open](https://img.shields.io/badge/-open-2E9E7A) |
-| <sub>#005</sub> | <sub>Used to just write test cases. Now asks *why* things break</sub> | `career-growth` | ![closed](https://img.shields.io/badge/-closed-8957e5) |
-
-</td>
-<td width="190" valign="top" align="center">
-<img src="./giphy.gif" width="180"/>
-<br/>
-</td>
-</tr>
-</table>
-
-<br/>
+| #001 | Doesn't fully trust "it works on my machine" | `skepticism` `evidence-based` | ![open](https://img.shields.io/badge/-open-2E9E7A) |
+| #002 | Prompts AI agents to investigate failures, not just run scripts | `agentic-testing` `ai` | ![open](https://img.shields.io/badge/-open-2E9E7A) |
+| #003 | Building an AI interview-prep assistant that grades reasoning | `side-project` `interviews` | ![in%20progress](https://img.shields.io/badge/-in%20progress-1B6E92) |
+| #004 | Writes about QA + AI on Substack instead of keeping notes private | `writing` `substack` | ![open](https://img.shields.io/badge/-open-2E9E7A) |
+| #005 | Used to just write test cases. Now asks *why* things break | `career-growth` | ![closed](https://img.shields.io/badge/-closed-8957e5) |
 
 
 </details>
@@ -59,10 +45,10 @@ and AI — that investigate failure instead of just reporting it.
 <summary><h2>Journey So Far</h2></summary>
 
 ```
-2021 ─ Started as a manual tester
+2019 ─ Started as a manual tester
         │ Learned to break things before users could
         │
-2022 ─ Moved into automation
+2021 ─ Moved into automation
         │ Selenium, Pytest, CI pipelines
         │
 2023 ─ Started asking "why," not just "what failed"
@@ -195,17 +181,6 @@ TOTAL                                     80%   PASSED
 
 </details>
 
-<details>
-<summary><strong>Known Issues (aka quirks) — click to expand</strong></summary>
-<br/>
-
-| # | Behaviour | Repro Steps | Fix? |
-| :-- | :-- | :-- | :-- |
-| #101 | Rewrites a test 4 times before trusting it | Give it any flaky test | Won't fix |
-| #102 | Reads the stack trace before reading the ticket | Assign any bug | By design |
-| #103 | Asks "have you tried reproducing it?" mid-conversation | Report "it's broken" with no steps | Working as intended |
-
-</details>
 
 <br/>
 
